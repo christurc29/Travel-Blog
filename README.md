@@ -1,4 +1,4 @@
-# cof254961a4294582af39a78c
+# Travel Blog
 
 Quick start:
 
